@@ -33,7 +33,7 @@ public:
             s1.pop();
 
             s2.push(cur);
-
+            
             if(cur->left)
                 s1.push(cur->left);
             if(cur->right)
