@@ -1,0 +1,1 @@
+// same as partition with given difference
